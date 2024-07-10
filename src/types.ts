@@ -3,3 +3,9 @@ export interface ApiPages {
   title: string;
   content: string;
 }
+
+export interface PageMutation {
+  id: string;
+  title: string;
+  content: string;
+}

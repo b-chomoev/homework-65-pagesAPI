@@ -1,6 +1,5 @@
 export const pages = [
-  {title: 'Home', id: 'home'},
   {title: 'About', id: 'about'},
-  {title: 'Contact', id: 'contact'},
-  {title: 'Division', id: 'division'},
+  {title: 'Contact', id: 'contacts'},
+  {title: 'Division', id: 'divisions'},
 ]

@@ -6,7 +6,7 @@ const NavBar = () => {
       <nav className="navbar navbar-dark bg-primary">
         <div className="container-fluid">
           <NavLink to="/" className="navbar-brand">
-            Static Pages
+            NLU.com
           </NavLink>
           <ul className="navbar-nav d-flex flex-row gap-3 flex-nowrap">
             <li className="nav-item">
